@@ -2,7 +2,7 @@
 set -x
 
 ################
-# Instructions #
+# Instructions#
 ################
 # > Edit this file below to complete the homework assignment
 # > Add your code below each comment to complete the tasks
